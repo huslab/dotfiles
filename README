@@ -1,2 +1,14 @@
 This is my own configuration files for OpenBSD on thinkpad x201
 
+The files you'll find here some of them specific to Thinkpad x201 and OpenBSD
+
+Thinkpad x201 configuration
+===========================
+CPU: Core i5
+RAM: 8GB
+HD: SSD M4 (256GB)
+
+OpenBSD
+=======
+Dist: 4.9
+Arch: amd64
